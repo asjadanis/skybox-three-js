@@ -10,10 +10,10 @@ http://skybox-three-js.herokuapp.com/
 
 ## To run locally and experiment
 
-git clone https://github.com/asjadanis/skybox-three-js.git
-npm install
-npm start 
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+git clone https://github.com/asjadanis/skybox-three-js.git.<br>
+npm install.<br>
+npm start.<br> 
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.<br>
 
 
 ## Available Scripts
