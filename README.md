@@ -8,6 +8,14 @@ A simple and elegant configuartion of [three js](https://threejs.org/) with reac
 
 http://skybox-three-js.herokuapp.com/
 
+![Alt Text](https://media.giphy.com/media/Wwf1yMhMW7w3zGNOYt/giphy.gif)
+
+## Credits
+
+Model used from [Sketchfab](https://sketchfab.com/models/844ba0cf144a413ea92c779f18912042) <br>
+Images for Skybox provided by http://www.custommapmakers.org/skyboxes.php
+
+
 ## To run locally and experiment
 
 git clone https://github.com/asjadanis/skybox-three-js.git.<br>
